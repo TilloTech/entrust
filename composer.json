@@ -23,16 +23,14 @@
     ],
     "require": {
         "php": "^8.2",
-        "illuminate/console": "^11",
-        "illuminate/support": "^11",
-        "illuminate/cache": "^11",
-        "illuminate/database": "^11"
+        "illuminate/console": "^12.0",
+        "illuminate/support": "^12.0",
+        "illuminate/cache": "^12.0",
+        "illuminate/database": "^12.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^11",
-        "mockery/mockery": "^1.5",
-
-        "sami/sami": "dev-master"
+        "mockery/mockery": "^1.5"
     },
     "autoload": {
         "classmap": [
